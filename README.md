@@ -1,16 +1,8 @@
 # splash
 
-A new Flutter project.
+Create Animated Splash Screen in Flutter With Lottie - Flutter App Tutorial 
 
-## Getting Started
+In this video, we will learn how to create a Lottie Splash Screen in Flutter. After watching this video you can easily design different types of animated splash screens using the Lottie package.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Lottie Package:
+https://pub.dev/packages/lottie
